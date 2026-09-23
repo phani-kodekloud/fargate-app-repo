@@ -1,0 +1,6 @@
+[
+  {
+    "name": "fargate-app",
+    "imageUri": "899262129769.dkr.ecr.us-east-1.amazonaws.com/fargate-app:latest"
+  }
+]
